@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = ""
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,44 +19,38 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Tutoring"
-  company = ""
+  company = "25$/hr"
   company_url = ""
   location = ""
-  date_start = "2017-01-01"
+  date_start = "2016-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
+  Personalized tutoring. 
     """
 
 [[experience]]
   title = "AP Tutoring"
-  company = "University X"
+  company = "30$/hr"
   company_url = ""
-  location = "California"
+  location = ""
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = ""
+  description = """
+  AP Chemistry, Literature, Calculus, US History, Psychology or equivalent.
+  
+  """
 
 
 
 [[experience]]
-
-title = "SAT/ACT Test Prep"
-
-company = "X"
-
-company_url = ""
-
-location = ""
-
-date_start = "2016-01-01"
-
-date_end = "2016-12-31"
-
-description = """Taught electronic engineering and researched semiconductor physics."""
+ title = "SAT/ACT Test Prep"
+ company = "30$/hr"
+ company_url = ""
+ location = ""
+ date_start = "2016-01-01"
+ date_end = ""
+ description = """
+ Personalized tutoring for the SAT or ACT tests.
+ """
 
 +++
