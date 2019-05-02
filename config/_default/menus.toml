@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Pricing"
-  url = "#Pricing"
+  url = "#prices"
   weight = 20
 
 [[main]]
   name = "Contact"
-  url = "#Contact"
+  url = "#contact"
   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
