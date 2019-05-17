@@ -83,8 +83,7 @@ email = ""
 +++
 
 
-**Rhode Island Tutors** is based out of southern Rhode Island and offers high quality summer tutoring and test preparation services.
-
+**Rhode Island Tutors** is based out of southern Rhode Island and offers high quality summer tutoring and test preparation services. 
 Whether your student is a achieving senior that wants an edge for their college applications or a freshman that just wants to sharpen their skills and build a solid foundation for continuing education, we offer personalized, 1:1 tutoring that can cater to any educational needs.
 
 **Billy Hood** was born and raised in West Greenwich, Rhode Island, and currently attends the Johns Hopkins University in Baltimore, Maryland. He has experience tutoring high school students from his own time at EWG Regional Highschool where he ranked #3 in his graduating class, and attained 99th percentile scores on both the ACT and SAT, along with multiple 5's and 4's on AP exams.

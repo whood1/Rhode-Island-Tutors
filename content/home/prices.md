@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Pricing"
+title = "Services"
 subtitle = ""
 
 # Date format for experience
@@ -25,20 +25,21 @@ date_format = ""
   date_start = "2016-01-01"
   date_end = ""
   description = """
-  Personalized tutoring. 
+  Personalized tutoring.
+  (Inquire about tutoring for AP-level classes. No tutoring for foriegn languages offered at this time.)
+
     """
 
-[[experience]]
-  title = "AP Tutoring"
-  company = "30$/hr"
-  company_url = ""
-  location = ""
-  date_start = "2016-01-01"
-  date_end = ""
-  description = """
-  AP Chemistry, Literature, Calculus, US History, Psychology or equivalent.
-  
-  """
+#[[experience]]
+#  title = "AP Tutoring"
+#  company = "30$/hr"
+# company_url = ""
+#  date_start = "2016-01-01"
+# date_end = ""
+# description = """
+#  AP Chemistry, Literature, Calculus, US History, Psychology or #quivalent.
+# 
+# """
 
 
 
@@ -50,7 +51,8 @@ date_format = ""
  date_start = "2016-01-01"
  date_end = ""
  description = """
- Personalized tutoring for the SAT or ACT tests.
+ Personalized test preparation for the SAT or ACT Test.
+ (No preparation for SAT Subject Tests offered at this time.)
  """
 
 +++
