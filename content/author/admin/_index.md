@@ -88,3 +88,5 @@ Whether your student is a achieving senior that wants an edge for their college 
 
 **Billy Hood** was born and raised in West Greenwich, Rhode Island, and currently attends the Johns Hopkins University in Baltimore, Maryland. He has experience tutoring high school students from his own time at EWG Regional Highschool where he ranked #3 in his graduating class, and attained 99th percentile scores on both the ACT and SAT, along with multiple 5's and 4's on AP exams.
 
+Contact me by email at **BillyLHood@gmail.com** or by phone at **401-612-7711**
+
