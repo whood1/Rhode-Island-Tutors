@@ -3,7 +3,7 @@
 name = "William Hood"
 
 # Username (this should match the folder name)
-authors = ["billy"]
+authors = ["William Hood"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -22,21 +22,30 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-#interests = [
-#  "Artificial Intelligence",
-#  "Computational Linguistics",
-#  "Information Retrieval"
-#]
+interests = [
+  "Computer Science",
+  "Chemistry",
+  "Math"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["tutor"]
+user_groups = ["Tutors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
-#  course = "Tutoring"
-#  institution = "Stanford University"
-# year = 2019
+# List qualifications (such as academic degrees)
+ [[education.courses]]
+  course = "Johns Hopkins University"
+  institution = "Class of 2022"
+ 
+
+[[education.courses]]
+  course = "Exeter-West Greenwich SHS"
+ institution = "Graduated 2018"
+ year = ""
+
+  
+  
 
 #[[education.courses]]
 #  course = "Ap Tutoring"
@@ -82,6 +91,9 @@ user_groups = ["tutor"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Billy Hood** was born and raised in West Greenwich, Rhode Island, and currently attends the Johns Hopkins University in Baltimore, Maryland. He has experience tutoring high school students from his own time at EWG Regional Highschool where he ranked #3 in his graduating class, and attained 99th percentile scores on both the ACT and SAT, along with multiple 5's and 4's on AP exams.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Contact me by email at **BillyLHood@gmail.com** or by phone at **401-612-7711**
+
+
+

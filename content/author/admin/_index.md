@@ -82,11 +82,30 @@ email = ""
 
 +++
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MzM0YmExMzAtYmUxYi00MGYxLTkwNmUtOWNiN2ZmNjMyMjYwNjM2OTQ1MDMzNDI1ODkyMDE4" id="snipcart"></script>
+
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+
 
 **Rhode Island Tutors** is based out of southern Rhode Island and offers high quality summer tutoring and test preparation services. 
+
 Whether your student is a achieving senior that wants an edge for their college applications or a freshman that just wants to sharpen their skills and build a solid foundation for continuing education, we offer personalized, 1:1 tutoring that can cater to any educational needs.
 
-**Billy Hood** was born and raised in West Greenwich, Rhode Island, and currently attends the Johns Hopkins University in Baltimore, Maryland. He has experience tutoring high school students from his own time at EWG Regional Highschool where he ranked #3 in his graduating class, and attained 99th percentile scores on both the ACT and SAT, along with multiple 5's and 4's on AP exams.
+Please scroll down to see more about us & our services, and feel free 
+to contact us with any questions.
 
-Contact me by email at **BillyLHood@gmail.com** or by phone at **401-612-7711**
+[Test](/static/onehour.html")
+
+<button
+    class="snipcart-add-item"
+    data-item-id="1"
+    data-item-name="One Hour Session"
+    data-item-price="25.00"
+    data-item-weight="1"
+    data-item-url="http://ritutoring.com"
+    data-item-description="One hour long personalized tutoring session.">
+        Purchase Session
+</button>
 

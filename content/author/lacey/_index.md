@@ -9,7 +9,7 @@ authors = ["lacey griffin"]
 superuser = false
 
 # Role/position
-role = "Tutor"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -24,30 +24,25 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Data Science",
-  "Actuarial Science / Applied Mathematics",
+  "Mathematics",
+  "Actuarial Science",
   "Business & Entreprenuership"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["tutor"]
+user_groups = ["Tutors"]
 
 # List qualifications (such as academic degrees)
  [[education.courses]]
-  course = "Tutoring"
-  institution = "Stanford University"
- year = 2019
+  course = "Bentley University"
+  institution = "Class of 2022"
+ 
 
 [[education.courses]]
-  course = "Ap Tutoring"
- institution = "Massachusetts Institute of Technology"
- year = 2019
-
-[[education.courses]]
- course = "SAT/ACT Test Prep"
- institution = "Massachusetts Institute of Technology"
- year = 2019
+  course = "Exeter-West Greenwich SHS"
+ institution = "Graduated 2018"
+ year = ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
