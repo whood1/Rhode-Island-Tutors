@@ -13,7 +13,7 @@ role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "", url = "" } ]
+#organizations = [ { name = "Johns Hopkins University", url = "https://www.jhu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Computer Science",
   "Chemistry",
-  "Math"
+  "Biology"
 ]
 
 # Organizational groups that you belong to (for People widget)

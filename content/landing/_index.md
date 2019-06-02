@@ -1,5 +1,5 @@
 +++
-# Homepage
-type = "widget_page"
+# Test page
+type = "testpage_page"
 headless = false  # Homepage is headless, other widget pages are not.
 +++
